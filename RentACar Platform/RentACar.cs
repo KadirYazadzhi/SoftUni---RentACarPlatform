@@ -246,7 +246,7 @@ class User : BaseUser {
     }
 
     public void ReturnACar() {
-        Console.WriteLine("Enter the brand and model of the car that you want to rent (In this format: Model Brand): ");
+        Console.WriteLine("Enter the brand and model of the car that you want to return (In this format: Model Brand): ");
         string[] data = Console.ReadLine().Split(' ').ToArray();
         
         int index = FindCarIndex(data[0], data[1]);
