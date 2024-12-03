@@ -144,7 +144,7 @@ These namespaces provide essential functionalities like console input/output, co
    git clone https://github.com/KadirYazadzhi/SoftUni---RentACarPlatform.git
     ```
 2. Open the Project:
-   - Open the ```.sln``` file in Visual Studio.
+   - Open project in your IDE.
 
 3. Run the Application:
    - The program will prompt you to create a new account or log in.
@@ -152,3 +152,36 @@ These namespaces provide essential functionalities like console input/output, co
 
 4. Exit the Program:
    - Type "exit" to close the application after you're done.
+  
+  
+## 📦 **Installation & Setup**
+
+1. **Pre-requisites**: Make sure you have the following installed on your system:
+   - [.NET SDK](https://dotnet.microsoft.com/download)
+   - [Visual Studio](https://visualstudio.microsoft.com/)
+
+2. **Running Locally**:
+   - Clone the repository using the command:
+     ```
+     git clone https://github.com/KadirYazadzhi/SoftUni---RentACarPlatform.git
+     ```
+   - Open the project in Visual Studio.
+   - Build and run the project.
+
+  
+## 🎓 **Credits**
+
+This project is based on the **"RentACar Platform"** exercise created by [Mario Zahariev](https://github.com/zahariev-webbersof/) for Python developers. However, I adapted the task and implemented it in C#. You can view the original task [here](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/RentACar%20Platform%20Project.md).
+
+Special thanks to Mario Zahariev for providing a great foundational exercise.
+
+## 💾 **Contribution**
+
+Feel free to fork this repository and submit pull requests! Contributions are welcome if you have ideas for additional patterns, new features, or improved functionality.
+
+## 📞 **Contact**
+
+If you have any questions or suggestions, feel free to reach out at:
+
+- 📧 Email: kadiryazadzhi@gmail.com
+- 🌍 Portfolio: [Kadir Yazadzhi](https://kadiryazadzhi.github.io/portfolio/)
